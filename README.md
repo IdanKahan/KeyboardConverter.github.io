@@ -1,5 +1,4 @@
-# [KeyboardConverter.github.io]([url](https://idankahan.github.io/KeyboardConverter/)) 🗣️ Language Converter
-
+# [KeyboardConverter.github.io](https://idankahan.github.io/KeyboardConverter/) 🗣️ Language Converter
 This is a simple browser-based language converter that I made. It allows you to quickly switch between **Hebrew** and **English keyboard layouts** and see the result instantly.
 
 ---
